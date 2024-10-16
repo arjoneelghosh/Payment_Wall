@@ -1,0 +1,1 @@
+Lawda kuch nhi hai
