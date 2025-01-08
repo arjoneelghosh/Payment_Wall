@@ -16,7 +16,7 @@ import CameraPreview from "./components/ui-elements/CameraPreview";
 
 const queryClient = new QueryClient();
 
-// Create a separate component for CameraPreview to enable route-based conditional rendering
+// Created a separate component for CameraPreview to enable route-based conditional rendering
 const ConditionalCameraPreview = () => {
   const location = useLocation();
   
