@@ -10,10 +10,6 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 from datetime import datetime
 
-#hi
-# Title of the Streamlit app
-st.title("🌍 Real-Time AQI Data with Forecasting")
-
 # OpenWeatherMap API key
 API_KEY = "51ae582e2c8e6e2c3a7703824ca9f4b4"
 
